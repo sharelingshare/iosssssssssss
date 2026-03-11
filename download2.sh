@@ -2,7 +2,7 @@
 
 echo "开始下载 Unity 导出工程..."
 
-curl -LO https://github.com/sharelingshare/iosssssssssss/releases/download/1.0/XcodeProject.zip
+curl -LO https://github.com/sharelingshare/iosssssssssss/releases/download/0.1/XcodeProject.zip
 
 unzip -q XcodeProject.zip -d .
 
